@@ -19,8 +19,8 @@ Contact Aleyna Fakılar for any issue.
 
 ## Authors
 
-Aleyna Fakılar(https://www.linkedin.com/in/aleynafakilar/)
-aleynafakilar@gmail.com
+*Aleyna Fakılar(https://www.linkedin.com/in/aleynafakilar/)
+*aleynafakilar@gmail.com
 
 
 ## Version History
