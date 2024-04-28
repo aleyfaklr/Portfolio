@@ -79,7 +79,6 @@ html {
     margin-top: 10px; /* Adjust as needed */
   }
   
-
   .form-check-input:checked {
     background-color: hwb(279 68% 0%)!important;
     border-color: hwb(279 68% 0%)!important;
@@ -92,7 +91,6 @@ html {
   }
   
   /* Switch */
-  
   
   .nav {
     font-family: 'Playfair Display', sans-serif !important;
